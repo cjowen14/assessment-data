@@ -21,5 +21,4 @@ def ten_melons(log_file):
 
 
 ten_melons(log_file)
-
-# sales_reports(log_file) #invoking the function, passing through the txt file
+sales_reports(log_file) #invoking the function, passing through the txt file
