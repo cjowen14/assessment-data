@@ -21,4 +21,7 @@ def ten_melons(log_file):
 
 
 ten_melons(log_file)
+
+log_file.seek(0);
+
 sales_reports(log_file) #invoking the function, passing through the txt file
